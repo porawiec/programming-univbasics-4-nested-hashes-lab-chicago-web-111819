@@ -15,8 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-
-     programmer_hash[:grace_hopper]
+    programmer_hash[:grace_hopper]
 
 end
 
@@ -82,6 +81,7 @@ def adding_matz
         :yukihiro_matsumoto => {
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
+        }
      }
 
     
